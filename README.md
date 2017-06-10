@@ -1,2 +1,7 @@
 # uidcloud-js
-UidCloud js adapter
+
+[UidCloud](http://uid.cloud) Javascript adapter
+
+# Installation
+
+    	$ npm install --save uidcloud-js

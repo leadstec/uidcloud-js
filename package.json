@@ -1,0 +1,26 @@
+{
+  "name": "uidcloud-js",
+  "version": "1.1.0",
+  "description": "UidCloud JS Adapter",
+  "main": "dist/uidcloud.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leadstec/uidcloud-js"
+  },
+  "author": "Frank,H.L.Lai <frank@leadstec.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/leadstec/uidcloud-js",
+  "keywords": [
+    "uidcloud",
+    "authentication",
+    "sso",
+    "oauth",
+    "oauth2",
+    "saml",
+    "openid",
+    "oidc"
+  ]
+}
